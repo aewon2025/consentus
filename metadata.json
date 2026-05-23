@@ -1,0 +1,10 @@
+{
+  "name": "Consentus X-Lucis v2.0",
+  "description": "Premium meditative audio suite featuring 432Hz alignment, Solfeggio layering, Schumann resonance integration, and real-time spectral diagnostics. [BETA PHASE]",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
